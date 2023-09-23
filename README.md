@@ -7,6 +7,6 @@ Successfully replicated a part of the LinkedIn interface using React, HTML, CSS,
 - Flexbox
 - Firebase Firestore Database
 - React Flip Move
-- Deploy the App LIVE on Firebase
+- Deploy the App LIVE on Google Firebase
 
 Link: https://linkedin-clone-ms-93770.web.app
